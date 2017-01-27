@@ -1,0 +1,25 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: results/exam/scanTest2_dirb_tests.txt
+START_TIME: Tue Jan 10 15:36:30 2017
+URL_BASE: http://10.0.0.18/
+WORDLIST_FILES: /usr/share/dirb/wordlists/vulns/tests.txt
+OPTION: Not Recursive
+OPTION: Silent Mode
+
+-----------------
+
+GENERATED WORDS: 33
+
+---- Scanning URL: http://10.0.0.18/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT CONNECT)
+
+-----------------
+END_TIME: Tue Jan 10 15:36:30 2017
+DOWNLOADED: 0 - FOUND: 0

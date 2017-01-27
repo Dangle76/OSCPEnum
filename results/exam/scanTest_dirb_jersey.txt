@@ -1,0 +1,22 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: results/exam/scanTest_dirb_jersey.txt
+START_TIME: Tue Jan 10 15:35:44 2017
+URL_BASE: http://10.0.0.13/
+WORDLIST_FILES: /usr/share/dirb/wordlists/vulns/jersey.txt
+OPTION: Not Recursive
+OPTION: Silent Mode
+
+-----------------
+
+GENERATED WORDS: 121
+
+---- Scanning URL: http://10.0.0.13/ ----
+
+-----------------
+END_TIME: Tue Jan 10 15:35:44 2017
+DOWNLOADED: 121 - FOUND: 0

@@ -1,0 +1,22 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: results/exam/scanTest_dirb_fatwire.txt
+START_TIME: Tue Jan 10 15:35:43 2017
+URL_BASE: http://10.0.0.13/
+WORDLIST_FILES: /usr/share/dirb/wordlists/vulns/fatwire.txt
+OPTION: Not Recursive
+OPTION: Silent Mode
+
+-----------------
+
+GENERATED WORDS: 98
+
+---- Scanning URL: http://10.0.0.13/ ----
+
+-----------------
+END_TIME: Tue Jan 10 15:35:43 2017
+DOWNLOADED: 98 - FOUND: 0
